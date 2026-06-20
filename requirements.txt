@@ -1,0 +1,6 @@
+streamlit
+agno
+google-generativeai
+python-dotenv
+reportlab
+markdown
